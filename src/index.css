@@ -22,3 +22,7 @@ code {
   color: #fff;
   border: none;
 }
+
+.done{
+  text-decoration: line-through;
+}
